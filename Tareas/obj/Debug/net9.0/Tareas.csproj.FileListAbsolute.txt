@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\bin\Debug\net9.0\Tareas.exe
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\bin\Debug\net9.0\Tareas.deps.json
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\bin\Debug\net9.0\Tareas.runtimeconfig.json
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\bin\Debug\net9.0\Tareas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\bin\Debug\net9.0\Tareas.pdb
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.AssemblyInfo.cs
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.sourcelink.json
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\refint\Tareas.dll
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.pdb
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\Tareas.genruntimeconfig.cache
+C:\Users\user\Desktop\Facultad\tl1-tp10-2025-ColmanNicolas\Tareas\obj\Debug\net9.0\ref\Tareas.dll
